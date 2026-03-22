@@ -62,7 +62,7 @@ O Hotel Pousada Plaza Central SP armazena dados sensíveis de hóspedes (RG, CPF
 
 *2.3 Escopo e Limites do Projeto*  
 Inclui: Cartilha de Segurança Digital (PDF), checklist de segurança, código de conduta.  
-Não inclui: implementação de sistemas complexos ou custos extras.
+Não inclui: sistemas complexos sem interface de entendimento fácil e gastos extras desnecessário
 
 *2.4 Entregáveis Mínimos*  
 - Cartilha de Segurança Digital (PDF, ou mini livro de linguagem facil de entender).  

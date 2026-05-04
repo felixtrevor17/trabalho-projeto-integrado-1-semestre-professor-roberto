@@ -67,4 +67,54 @@ Não inclui: sistemas complexos sem interface de entendimento fácil e gastos ex
 *2.4 Entregáveis Mínimos*  
 - Cartilha de Segurança Digital (PDF, ou mini livro de linguagem facil de entender).  
 - Plano de Ação Simplificado (checklist prático).  
-- Código de conduta para funcionários.
+- Código de conduta para funcionários. Cartilha de Segurança Digital - Pousada Plaza Central SP
+
+Projeto Integrado do curso de Análise e Desenvolvimento de Sistemas - Faculdade Anhanguera Itaquera.
+
+## Sobre o projeto
+Cartilha de Segurança Digital focada em LGPD para funcionários da Pousada Plaza Central SP (hotel pequeno).
+
+## Objetivo
+Capacitar funcionários sobre:
+- Riscos digitais comuns
+- Proteção de dados de hóspedes (LGPD)
+- Práticas de segurança de baixo custo
+
+## Entregáveis
+- Cartilha de Segurança Digital (PDF)
+- Checklist de segurança
+- Código de conduta para funcionários
+-  Cartilha de Segurança Digital - Pousada Plaza Central SP
+
+**Projeto Integrado - Análise e Desenvolvimento de Sistemas**
+**Faculdade Anhanguera – Itaquera | 1º Semestre | 2026**
+**Orientador:** Prof. Roberto Maia
+
+## 1. Sobre o Projeto
+Cartilha de Segurança Digital focada em LGPD para funcionários da Pousada Plaza Central SP, um hotel de pequeno porte.
+
+**Problema:** A pousada armazena dados sensíveis de hóspedes (RG, CPF, dados bancários, e-mail) em sistemas e planilhas. A falta de políticas claras e conscientização expõe o negócio a riscos de vazamento, multas da LGPD e perda de confiança dos clientes.
+
+## 2. Objetivos
+**Geral:** Implementar práticas de segurança para proteger dados de hóspedes conforme a LGPD.
+
+**Específicos:**
+- Identificar pontos críticos de risco: acesso a dados e backups
+- Criar código de conduta para funcionários sobre proteção de dados
+- Propor checklist de segurança para recepção e TI
+- Traduzir conceitos da LGPD para linguagem acessível aos funcionários
+
+## 3. Entregáveis
+1. **Cartilha de Segurança Digital:** PDF com linguagem simples e visual
+2. **Plano de Ação Simplificado:** Checklist prático para o dia a dia
+3. **Código de Conduta:** Regras claras para funcionários
+
+## 4. Escopo
+**Inclui:** Material didático, checklist e código de conduta.
+**Não inclui:** Implementação de sistemas complexos ou custos extras desnecessários.
+
+## 5. Equipe e Papéis
+- **Thamires Arnaldo:** Pesquisas e testes da funcionalidade
+- **Caio Henrique / Felix Tavares:** Tarefas técnicas voltadas ao backend
+- **Gabriel Martins / Gustavo Souza:** Pesquisas, documentação e formatação
+- **Maikon Nunes:** Analista de Testes / Documentação e formatação
